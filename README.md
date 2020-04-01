@@ -1,7 +1,9 @@
 # jwtdec
 
 Simple CLI tool for JWT payload parsing in your terminal.
+
 No validation, no configuration, no dependencies in your OS required.
+
 I wrote this because shell tool is much faster then opening new browser tab with https://jwt.io each time I need to parse JWT.
 
 ![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/master/1585778760_0106_02042020_421x193.png)
