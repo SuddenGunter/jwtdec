@@ -8,6 +8,15 @@ I wrote this because shell tool is more convenient then opening new browser tab 
 
 ![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/master/1585778760_0106_02042020_421x193.png)
 
+## Installation
+
+### Go modules
+```shell script
+go get -u github.com/SuddenGunter/jwtdec
+```
+### Prebuilt binaries
+See latest release tag in this repo and just download executable for your OS.
+
 ## Usage
 
 Colorful output:
