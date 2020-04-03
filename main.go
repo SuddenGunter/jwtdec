@@ -14,7 +14,7 @@ func main() {
 	flag.Parse()
 	jwtToken := flag.Args()[0]
 	payload := strings.Split(jwtToken, ".")[1]
-	json, err := base64.StdEncoding.DecodeString(payload)
+	json, err := base64.RawStdEncoding.DecodeString(payload)
 	if err != nil {
 		log.Fatal(err)
 	}
