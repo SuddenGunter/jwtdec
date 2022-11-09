@@ -12,11 +12,11 @@ I wrote this because shell tool is more convenient then opening new browser tab 
 
 ### Go modules
 ```shell script
-go install github.com/SuddenGunter/updater@v0.1.0
+go install github.com/SuddenGunter/jwtdec@v0.2.0
 ```
 ### Prebuilt binaries
 See latest release tag in this repo and just download executable for your OS.
 
 ## Usage
 
-![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/main/1668037798_0149_10112022_550x358)
+![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/main/1668037798_0149_10112022_550x358.png)
