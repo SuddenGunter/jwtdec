@@ -12,30 +12,11 @@ I wrote this because shell tool is more convenient then opening new browser tab 
 
 ### Go modules
 ```shell script
-go get -u github.com/SuddenGunter/jwtdec
+go install github.com/SuddenGunter/updater@v0.1.0
 ```
 ### Prebuilt binaries
 See latest release tag in this repo and just download executable for your OS.
 
 ## Usage
 
-Colorful output:
-
-```shell script
-./jwtdec eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJuYmYiOjE0NDQ0Nzg0MDB9.u1riaD1rW97opCoAuRCTy4w58Br-Zk-bh7vLiRIsrpU
-## will output in color:
-## {
-##  "foo": "bar",
-##  "nbf": 1444478400
-## }
-```
-
-No color mode:
-```shell script
-./jwtdec -nc eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJuYmYiOjE0NDQ0Nzg0MDB9.u1riaD1rW97opCoAuRCTy4w58Br-Zk-bh7vLiRIsrpU
-## will output:
-## {
-##  "foo": "bar",
-##  "nbf": 1444478400
-## }
-```
+![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/master/1668037798_0149_10112022_550x358)
