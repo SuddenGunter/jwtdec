@@ -6,7 +6,7 @@ No validation, no configuration, no dependencies in your OS required.
 
 I wrote this because shell tool is more convenient then opening new browser tab with https://jwt.io each time I need to parse JWT.
 
-![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/master/1585778760_0106_02042020_421x193.png)
+![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/main/1585778760_0106_02042020_421x193.png)
 
 ## Installation
 
@@ -19,4 +19,4 @@ See latest release tag in this repo and just download executable for your OS.
 
 ## Usage
 
-![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/master/1668037798_0149_10112022_550x358)
+![Screenshot](https://github.com/SuddenGunter/jwtdec/blob/main/1668037798_0149_10112022_550x358)
