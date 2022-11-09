@@ -14,8 +14,6 @@ I wrote this because shell tool is more convenient then opening new browser tab 
 ```shell script
 go install github.com/SuddenGunter/jwtdec@v0.2.0
 ```
-### Prebuilt binaries
-See latest release tag in this repo and just download executable for your OS.
 
 ## Usage
 
